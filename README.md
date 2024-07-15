@@ -1,7 +1,7 @@
 I have no idea what is read me. But i think you read it.
 
 How to use it:
-1.Enter a text and press enter
+1.Enter a text and press enter.  
 2.Enter any key. Think it like settin a password. Then press enter.
 3.Now either copy the encripted text to your clipboard using the button. Or, clear the text.
 4.share the encripted text with your friends online and give the key to them physically.
